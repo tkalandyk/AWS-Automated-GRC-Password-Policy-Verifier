@@ -1,4 +1,5 @@
-<img width="1280" height="720" alt="Yellow and Black Modern R BSoul Playlist YouTube Thumbnail" src="https://github.com/user-attachments/assets/b2298eaf-cf01-4458-99e6-57c27cbd5d84" />
+<img width="1024" height="1536" alt="ChatGPT Image Feb 8, 2026, 09_09_44 PM" src="https://github.com/user-attachments/assets/ba9a1852-e956-4381-b8e3-29b721c2cb68" />
+
 
 # AWS Automated GRC: Password Policy Verifier
 
