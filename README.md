@@ -2,7 +2,7 @@
 
 # AWS Automated GRC: Password Policy Verifier
 
-[![Automated GRC: AWS Password Policy Verifier (Walkthrough Video)](https://github.com/user-attachments/assets/56ad64fd-793a-4a56-b5de-756f5fcaa127)](https://youtu.be/GPZalUoe-y8)
+
 
 ## What this project covers
 This project demonstrates **Automated GRC (GRC Engineering)** by verifying an AWS account’s **password policy configuration** directly via AWS APIs, then generating **audit-ready evidence** in **CSV + JSON**.
@@ -12,6 +12,9 @@ It’s built to replace the traditional “audit season scramble” approach (ma
 > **Environment note:** This was executed against a **live AWS account** with **real IAM users** and **AWS Identity Center (SSO) enabled** in a **test environment**. This is not a toy mock-up.
 
 ---
+
+## 🎥 Click the Picture Below to Watch Demo Video ⬇️
+[![Automated GRC: AWS Password Policy Verifier (Walkthrough Video)](https://github.com/user-attachments/assets/56ad64fd-793a-4a56-b5de-756f5fcaa127)](https://youtu.be/GPZalUoe-y8)
 
 ## Why traditional GRC breaks at scale
 The old workflow usually looks like this:
@@ -77,6 +80,9 @@ The script retrieves and evaluates the AWS account’s IAM password policy confi
 - Hard expiry behavior
 - **Identity Center (SSO) detection** + IAM console user count (to identify hybrid auth scenarios)
 
+  <img width="700" height="630" alt="image" src="https://github.com/user-attachments/assets/3aa8141e-0207-40f7-a667-cdc461c3e414" />
+
+
 > This project is intentionally built so the compliance standards and checks can be **custom-tailored** to a company’s specific requirements (different baselines, stricter/looser thresholds, additional controls).
 
 ---
@@ -99,7 +105,17 @@ This implementation maps results to:
 4. **Normalize + evaluate** settings against defined compliance standards
 5. **Generate evidence artifacts**
    - CSV summary (clean + auditor friendly)
+
+      <img width="842" height="433" alt="image" src="https://github.com/user-attachments/assets/92022075-8627-4e09-838f-206f2d5daa21" />
+
+     
    - JSON report (engineering + automation friendly)
+  
+     <img width="669" height="909" alt="image" src="https://github.com/user-attachments/assets/ef78367f-83dc-41f1-b277-3afe8295b53c" />
+
+  
+<img width="820" height="548" alt="image" src="https://github.com/user-attachments/assets/419d05e4-0201-49ba-8493-1547e49744b2" />
+  
 
 ---
 
