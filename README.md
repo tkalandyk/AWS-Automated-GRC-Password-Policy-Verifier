@@ -80,7 +80,7 @@ The script retrieves and evaluates the AWS account’s IAM password policy confi
 - Hard expiry behavior
 - **Identity Center (SSO) detection** + IAM console user count (to identify hybrid auth scenarios)
 
-  <img width="700" height="630" alt="image" src="https://github.com/user-attachments/assets/3aa8141e-0207-40f7-a667-cdc461c3e414" />
+<img width="700" height="630" alt="image" src="https://github.com/user-attachments/assets/3aa8141e-0207-40f7-a667-cdc461c3e414" />
 
 
 > This project is intentionally built so the compliance standards and checks can be **custom-tailored** to a company’s specific requirements (different baselines, stricter/looser thresholds, additional controls).
@@ -106,12 +106,12 @@ This implementation maps results to:
 5. **Generate evidence artifacts**
    - CSV summary (clean + auditor friendly)
 
-      <img width="842" height="433" alt="image" src="https://github.com/user-attachments/assets/92022075-8627-4e09-838f-206f2d5daa21" />
+<img width="842" height="433" alt="image" src="https://github.com/user-attachments/assets/92022075-8627-4e09-838f-206f2d5daa21" />
 
      
    - JSON report (engineering + automation friendly)
-  
-     <img width="669" height="909" alt="image" src="https://github.com/user-attachments/assets/ef78367f-83dc-41f1-b277-3afe8295b53c" />
+
+ <img width="669" height="909" alt="image" src="https://github.com/user-attachments/assets/ef78367f-83dc-41f1-b277-3afe8295b53c" />
 
   
 <img width="820" height="548" alt="image" src="https://github.com/user-attachments/assets/419d05e4-0201-49ba-8493-1547e49744b2" />
