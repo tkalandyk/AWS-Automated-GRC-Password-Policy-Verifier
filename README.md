@@ -16,6 +16,7 @@ It’s built to replace the traditional “audit season scramble” approach (ma
 ## 🎥 Click the Picture Below to Watch Demo Video ⬇️
 [![Automated GRC: AWS Password Policy Verifier (Walkthrough Video)](https://github.com/user-attachments/assets/56ad64fd-793a-4a56-b5de-756f5fcaa127)](https://youtu.be/GPZalUoe-y8)
 
+---
 ## Why traditional GRC breaks at scale
 The old workflow usually looks like this:
 - Log into AWS Console
@@ -113,6 +114,7 @@ This implementation maps results to:
 
  <img width="669" height="909" alt="image" src="https://github.com/user-attachments/assets/ef78367f-83dc-41f1-b277-3afe8295b53c" />
 
+  ---
   
 <img width="820" height="548" alt="image" src="https://github.com/user-attachments/assets/419d05e4-0201-49ba-8493-1547e49744b2" />
   
